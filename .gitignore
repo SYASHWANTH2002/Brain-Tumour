@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data (DO NOT UPLOAD)
+data/
+*.nii
+*.nii.gz
+
+# Models
+*.pth
+
+# Conda
+.env
+.venv
+
+# OS
+.DS_Store
+Thumbs.db
+
